@@ -1,0 +1,7 @@
+backend_fastapi/.env
+
+backend_fastapi/__pycache__
+
+gi_frontend_react/node_modules
+
+.DS_Store
