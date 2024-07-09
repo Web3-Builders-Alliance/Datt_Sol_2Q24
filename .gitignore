@@ -1,6 +1,3 @@
-backend_fastapi/.env
-
-backend_fastapi/__pycache__
 
 backend_fastapi/
 
@@ -9,8 +6,6 @@ backend_node/node_modules
 backend_node/.env
 
 backend_node/wba-wallet.json
-
-backend_node/
 
 gi_frontend_react/node_modules
 
